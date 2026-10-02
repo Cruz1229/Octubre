@@ -1,0 +1,285 @@
+{
+  "retrievedOn": "2026-10-02",
+  "note": "Los carteles pertenecen a sus respectivos titulares. Wikipedia es la fuente de consulta, no una licencia general de reutilización.",
+  "posters": [
+    {
+      "day": 1,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "source": "https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas",
+      "imagePage": "https://en.wikipedia.org/wiki/File:The_nightmare_before_christmas_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_nightmare_before_christmas_poster.jpg",
+      "localFile": "assets/posters/01.jpg"
+    },
+    {
+      "day": 2,
+      "title": "Hocus Pocus 2",
+      "year": 2022,
+      "source": "https://en.wikipedia.org/wiki/Hocus_Pocus_2",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Hocus_Pocus_2_Logo.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hocus_Pocus_2_Logo.jpg",
+      "localFile": "assets/posters/02.jpg"
+    },
+    {
+      "day": 3,
+      "title": "Coraline",
+      "year": 2009,
+      "source": "https://en.wikipedia.org/wiki/Coraline_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Coraline_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg",
+      "localFile": "assets/posters/03.jpg"
+    },
+    {
+      "day": 4,
+      "title": "Ghostbusters",
+      "year": 1984,
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Ghostbusters_(1984)_theatrical_poster.png",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghostbusters_%281984%29_theatrical_poster.png",
+      "localFile": "assets/posters/04.png"
+    },
+    {
+      "day": 5,
+      "title": "Halloweentown",
+      "year": 1998,
+      "source": "https://en.wikipedia.org/wiki/Halloweentown_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Disney_-_Halloweentown.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/44/Disney_-_Halloweentown.jpg",
+      "localFile": "assets/posters/05.jpg"
+    },
+    {
+      "day": 6,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "source": "https://en.wikipedia.org/wiki/Hocus_Pocus_(1993_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Hocuspocusposter.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/c/c9/Hocuspocusposter.jpg",
+      "localFile": "assets/posters/06.jpg"
+    },
+    {
+      "day": 7,
+      "title": "Monster House",
+      "year": 2006,
+      "source": "https://en.wikipedia.org/wiki/Monster_House_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Monster_House_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/7c/Monster_House_poster.jpg",
+      "localFile": "assets/posters/07.jpg"
+    },
+    {
+      "day": 8,
+      "title": "The Haunted Mansion",
+      "year": 2003,
+      "source": "https://en.wikipedia.org/wiki/The_Haunted_Mansion_(2003_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Haunted_mansion_ver3.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/6d/Haunted_mansion_ver3.jpg",
+      "localFile": "assets/posters/08.jpg"
+    },
+    {
+      "day": 9,
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "source": "https://en.wikipedia.org/wiki/Edward_Scissorhands",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Edwardscissorhandsposter.JPG",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/3b/Edwardscissorhandsposter.JPG",
+      "localFile": "assets/posters/09.jpg"
+    },
+    {
+      "day": 10,
+      "title": "ParaNorman",
+      "year": 2012,
+      "source": "https://en.wikipedia.org/wiki/ParaNorman",
+      "imagePage": "https://en.wikipedia.org/wiki/File:ParaNorman_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/32/ParaNorman_poster.jpg",
+      "localFile": "assets/posters/10.jpg"
+    },
+    {
+      "day": 11,
+      "title": "Twitches Too",
+      "year": 2007,
+      "source": "https://en.wikipedia.org/wiki/Twitches_Too",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Twitchestooposter.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/1/10/Twitchestooposter.jpg",
+      "localFile": "assets/posters/11.jpg"
+    },
+    {
+      "day": 12,
+      "title": "Van Helsing",
+      "year": 2004,
+      "source": "https://en.wikipedia.org/wiki/Van_Helsing_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Van_Helsing_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/55/Van_Helsing_poster.jpg",
+      "localFile": "assets/posters/12.jpg"
+    },
+    {
+      "day": 13,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "source": "https://en.wikipedia.org/wiki/The_Spiderwick_Chronicles_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Spiderwick_chronicles_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/5a/Spiderwick_chronicles_poster.jpg",
+      "localFile": "assets/posters/13.jpg"
+    },
+    {
+      "day": 14,
+      "title": "Frankenstein",
+      "year": 1931,
+      "source": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Frankenstein_poster_1931.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Frankenstein_poster_1931.jpg",
+      "localFile": "assets/posters/14.jpg"
+    },
+    {
+      "day": 15,
+      "title": "Girl vs. Monster",
+      "year": 2012,
+      "source": "https://en.wikipedia.org/wiki/Girl_vs._Monster",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Girl_vs._Monster_Official_Movie_Poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/b0/Girl_vs._Monster_Official_Movie_Poster.jpg",
+      "localFile": "assets/posters/15.jpg"
+    },
+    {
+      "day": 16,
+      "title": "Scooby-Doo",
+      "year": 2002,
+      "source": "https://en.wikipedia.org/wiki/Scooby-Doo_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Scooby-Doo_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/ae/Scooby-Doo_poster.jpg",
+      "localFile": "assets/posters/16.jpg"
+    },
+    {
+      "day": 17,
+      "title": "The Phantom of the Opera",
+      "year": 2004,
+      "source": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Poto2.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d6/Poto2.jpg",
+      "localFile": "assets/posters/17.jpg"
+    },
+    {
+      "day": 18,
+      "title": "Frankenweenie",
+      "year": 2012,
+      "source": "https://en.wikipedia.org/wiki/Frankenweenie_(2012_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Frankenweenie_(2012_film)_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a9/Frankenweenie_%282012_film%29_poster.jpg",
+      "localFile": "assets/posters/18.jpg"
+    },
+    {
+      "day": 19,
+      "title": "Corpse Bride",
+      "year": 2005,
+      "source": "https://en.wikipedia.org/wiki/Corpse_Bride",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Corpse_Bride_film_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a6/Corpse_Bride_film_poster.jpg",
+      "localFile": "assets/posters/19.jpg"
+    },
+    {
+      "day": 20,
+      "title": "Hubie Halloween",
+      "year": 2020,
+      "source": "https://en.wikipedia.org/wiki/Hubie_Halloween",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Hubie_Halloween_poster.png",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hubie_Halloween_poster.png",
+      "localFile": "assets/posters/20.png"
+    },
+    {
+      "day": 21,
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "source": "https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Sleepy_hollow_ver2.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/09/Sleepy_hollow_ver2.jpg",
+      "localFile": "assets/posters/21.jpg"
+    },
+    {
+      "day": 22,
+      "title": "Casper",
+      "year": 1995,
+      "source": "https://en.wikipedia.org/wiki/Casper_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Casper_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/7f/Casper_poster.jpg",
+      "localFile": "assets/posters/22.jpg"
+    },
+    {
+      "day": 23,
+      "title": "Miss Peregrine’s Home for Peculiar Children",
+      "year": 2016,
+      "source": "https://en.wikipedia.org/wiki/Miss_Peregrine's_Home_for_Peculiar_Children_(film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Miss_Peregrine_Film_Poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Miss_Peregrine_Film_Poster.jpg",
+      "localFile": "assets/posters/23.jpg"
+    },
+    {
+      "day": 24,
+      "title": "Scream",
+      "year": 1996,
+      "source": "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Scream_(1996_film)_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/8/86/Scream_%281996_film%29_poster.jpg",
+      "localFile": "assets/posters/24.jpg"
+    },
+    {
+      "day": 25,
+      "title": "Pan’s Labyrinth",
+      "year": 2006,
+      "source": "https://en.wikipedia.org/wiki/Pan's_Labyrinth",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Pan's_Labyrinth.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/67/Pan%27s_Labyrinth.jpg",
+      "localFile": "assets/posters/25.jpg"
+    },
+    {
+      "day": 26,
+      "title": "Jennifer’s Body",
+      "year": 2009,
+      "source": "https://en.wikipedia.org/wiki/Jennifer's_Body",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Jennifers_body_ver2.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d2/Jennifers_body_ver2.jpg",
+      "localFile": "assets/posters/26.jpg"
+    },
+    {
+      "day": 27,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "source": "https://en.wikipedia.org/wiki/Beetlejuice",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Beetlejuice_(1988_film_poster).png",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/76/Beetlejuice_%281988_film_poster%29.png",
+      "localFile": "assets/posters/27.png"
+    },
+    {
+      "day": 28,
+      "title": "The Addams Family",
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/The_Addams_Family_(1991_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:The_Addams_Family.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/0/04/The_Addams_Family.jpg",
+      "localFile": "assets/posters/28.jpg"
+    },
+    {
+      "day": 29,
+      "title": "Halloweentown High",
+      "year": 2004,
+      "source": "https://en.wikipedia.org/wiki/Halloweentown_High",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Halloweentown_High.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Halloweentown_High.jpg",
+      "localFile": "assets/posters/29.jpg"
+    },
+    {
+      "day": 30,
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "source": "https://en.wikipedia.org/wiki/Ghostbusters%3A_Afterlife",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Ghostbusters_-_Afterlife_official_theatrical_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/d/d1/Ghostbusters_-_Afterlife_official_theatrical_poster.jpg",
+      "localFile": "assets/posters/30.jpg"
+    },
+    {
+      "day": 31,
+      "title": "Coco",
+      "year": 2017,
+      "source": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+      "imagePage": "https://en.wikipedia.org/wiki/File:Coco_(2017_film)_poster.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+      "localFile": "assets/posters/31.jpg"
+    }
+  ]
+}
